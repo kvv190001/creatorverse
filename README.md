@@ -33,6 +33,8 @@ Here's a walkthrough of implemented required features:
 
 👉🏿<img src='https://i.imgur.com/utrtJCB.gifv' title='Video Walkthrough' width='700' alt='Video Walkthrough' />
 
+https://i.imgur.com/utrtJCB.gifv
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with screentogif
