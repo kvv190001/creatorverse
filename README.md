@@ -31,8 +31,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='https://imgur.com/utrtJCB' title='Video Walkthrough' width='700' alt='Video Walkthrough' />
-<iframe class="imgur-embed" width="100%" height="944" frameborder="0" src="https://i.imgur.com/utrtJCB.gifv#embed"></iframe>
+👉🏿<img src='https://i.imgur.com/utrtJCB.gifv' title='Video Walkthrough' width='700' alt='Video Walkthrough' />
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with screentogif
