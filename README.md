@@ -31,8 +31,6 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='https://i.imgur.com/utrtJCB.gifv' title='Video Walkthrough' width='700' alt='Video Walkthrough' />
-
 https://i.imgur.com/utrtJCB.gifv
 
 
