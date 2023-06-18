@@ -32,17 +32,14 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 👉🏿<img src='https://imgur.com/utrtJCB' title='Video Walkthrough' width='700' alt='Video Walkthrough' />
+<iframe class="imgur-embed" width="100%" height="944" frameborder="0" src="https://i.imgur.com/utrtJCB.gifv#embed"></iframe>
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  👉🏿 GIF tool here
+GIF created with screentogif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
-
-## Notes
-
-Describe any challenges encountered while building the app or any additional context you'd like to add.
 
 ## License
 
