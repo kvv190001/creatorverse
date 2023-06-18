@@ -31,7 +31,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='https://imgur.com/utrtJCB' title='Video Walkthrough' width='700' alt='Video Walkthrough' />
+👉🏿<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://imgur.com/utrtJCB)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  👉🏿 GIF tool here
