@@ -1,0 +1,60 @@
+#root {
+    margin: 0 5rem;
+}
+
+.header-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+}
+
+.header-info h1 {
+    margin: 1rem;
+}
+
+.header-nav-items {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 1fr;
+    margin-bottom: 50px;
+}
+
+.header-nav-item {
+    width: 9rem;
+}
+
+.ShowCreators {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-gap: 100px;
+}
+
+.Card {
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-position-y: 20%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+}
+
+article{
+    height: 100%;
+    opacity: 0.8;
+    margin: 0;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    overflow: hidden;
+}
+
+.card-header-edit{
+    text-align: right;
+}
+
+.card-header-edit i{
+    margin-left: 10px;
+}
+
